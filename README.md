@@ -33,7 +33,7 @@ This Travel Website Design includes these features:
 
 ## Getting Started & Installation
 Clone the repository to your local machine:
-`[git clone https://github.com/NickAlvarez20/TouristWebsite.git`
+`git clone https://github.com/NickAlvarez20/TouristWebsite.git`
 ## Usage
 Open the HTML file (hawaiiTourismWebpage.html) in a web browser.
 ## Learning Outcomes
